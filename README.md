@@ -9,10 +9,10 @@
 
 * This Project is a Bots Facebook
 
-- ![]() `Bot 01 --> Bot For React By Like on Facebook Home Page ...`
+- ![]() `Bot 01 --> Bot For React By Likes on Facebook Home Page ...`
 - ![]() `Bot 02 --> Bot For Comments in Groups and it's Good in Marketing ...`
-- ![]() `Bot 03 --> Bot For Messages Just Put Name Your Friend And Number OF Messages ...`
-- ![]() `Bot 04 --> it's nothing important BUT You need it IN Your Projects and this Bot is to Login in Your Account Facebook ...`
+- ![]() `Bot 03 --> Bot For Messages Just Put the Name of Your Friend And Number OF Messages ...`
+- ![]() `Bot 04 --> it's nothing important but You need it IN Your Projects and this Bot is to Login in Your Facebook account ...`
 
 # Using in Windows
 ```python
